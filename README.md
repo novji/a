@@ -27,6 +27,6 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=codycon&style=for-the-badge&color=ff69b4">
+<img src="https://komarev.com/ghpvc/?username=novji&style=for-the-badge&color=ff69b4">
 
 </div>
